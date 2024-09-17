@@ -1,0 +1,3 @@
+/Users/macguffin/CLionProjects/hpm5300rttTest/cmake-build-hpm5300/CMakeFiles/rtthread.elf.dir
+/Users/macguffin/CLionProjects/hpm5300rttTest/cmake-build-hpm5300/CMakeFiles/edit_cache.dir
+/Users/macguffin/CLionProjects/hpm5300rttTest/cmake-build-hpm5300/CMakeFiles/rebuild_cache.dir
